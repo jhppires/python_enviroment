@@ -1,0 +1,3 @@
+# Setting A Dockerized Python Environment — The Elegant Way
+
+Just like any other programming language, Python has its own way of managing dependencies. In Python, we use `pip` to install packages. However, managing dependencies in Python can be a bit tricky. This is where Docker comes in. Docker is a platform that allows you to package your application and all its dependencies into a container. This way, you can ensure that your application runs on any machine without worrying about the dependencies.
